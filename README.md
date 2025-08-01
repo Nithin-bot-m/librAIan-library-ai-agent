@@ -141,12 +141,8 @@ LibrAIan is an AI agent built on IBM Watsonx.ai that delivers reliable, course-a
 
 ---
 
-## ⚖️ License
 
-This project is licensed under the Nithin (LICENSE).
 
----
-
-👨‍💻 Created by **Manoj G**  
-BTech in Electrical and Electronics Engineering  
-Christ University, Bangalore  
+👨‍💻 Created by **Nithin N D**  
+BTech in Computer Science and Engineering  
+Presidency University, Bangalore  
