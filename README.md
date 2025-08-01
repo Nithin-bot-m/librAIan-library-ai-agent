@@ -110,19 +110,6 @@ LibrAIan is an AI agent built on IBM Watsonx.ai that delivers reliable, course-a
 
 ---
 
-## ▶️ How to Run or Deploy
-
-1. Log in to [IBM Cloud Lite](https://cloud.ibm.com)
-2. Open **Watsonx.ai Studio**
-3. Create a new AI Agent project
-4. Upload syllabus PDFs and library metadata to **Vector Index**
-5. Configure NLP and retrieval logic using Watsonx tools
-6. Set agent behavior (instructions + tone)
-7. Test using the preview interface
-8. Deploy via embed code or connect to a chatbot frontend
-
----
-
 ## 🛠️ Future Scope
 
 - Integrate with college portal and student login  
